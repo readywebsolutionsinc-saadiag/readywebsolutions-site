@@ -1,0 +1,5 @@
+:root {
+  --pico-primary: #2563eb;      /* main brand color (blue for now) */
+  --pico-secondary: #64748b;    /* secondary / muted color */
+  --pico-font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
